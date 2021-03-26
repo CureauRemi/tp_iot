@@ -25,3 +25,8 @@ On Windows :
 Install the dependences : 
 
 `$ pip install Flask`
+
+To execute the python project just run the bash file
+***
+`./run.sh`
+***
